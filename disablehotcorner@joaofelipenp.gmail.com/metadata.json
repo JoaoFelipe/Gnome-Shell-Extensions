@@ -1,9 +1,10 @@
 { 
-   "shell-version": ["3.0.2"], 
+   "shell-version": ["3.2"], 
+   "version": "2.0",   
    "uuid": "disablehotcorner@joaofelipenp.gmail.com",
    "name": "Disable Hot Corner",
    "description": "Disable hot corner mouse touch activation",
-   "url": "https://github.com/JoaoFelipe/Gnome-Shell-Extensions",
    "original-authors": "Joao Felipe Nicolaci Pimentel",
-   "localedir": "localedir"
+   "url": "https://github.com/JoaoFelipe/Gnome-Shell-Extensions",
+   "localedir": "locale"
 }

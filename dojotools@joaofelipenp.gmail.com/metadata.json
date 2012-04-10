@@ -1,6 +1,10 @@
 {
-    "shell-version": ["3.0.2"], 
-    "uuid": "dojotools@joaofelipenp.gmail.com", 
-    "name": "DojoTools Icon", 
-    "description": "Add Dojotools Icon to System Status Area"
+   "shell-version": ["3.2"], 
+   "version": "2.0",
+   "uuid": "dojotools@joaofelipenp.gmail.com", 
+   "name": "DojoTools Icon", 
+   "description": "Add Dojotools Icon to System Status Area",
+   "original-authors": "Joao Felipe Nicolaci Pimentel",
+   "url": "https://github.com/JoaoFelipe/Gnome-Shell-Extensions",
+   "localedir": "locale"
 }
