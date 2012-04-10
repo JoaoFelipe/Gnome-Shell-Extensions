@@ -1,0 +1,10 @@
+{
+   "shell-version": ["3.2"], 
+   "version": "1.0",
+   "uuid": "removetitlebar@joaofelipenp.gmail.com", 
+   "name": "Remove Title Bar", 
+   "description": "This extension removes the original AppMenuButton from the gnome-shell panel",
+   "original-authors": "Joao Felipe Nicolaci Pimentel",
+   "url": "https://github.com/JoaoFelipe/Gnome-Shell-Extensions",
+   "localedir": "locale"
+}
